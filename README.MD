@@ -62,10 +62,11 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 
 ### 👍 References
 
-- [DIO](https://dio.me): Plataforma de aprendizagem gameficada.
-- [Linkedin do Felipe Aguiar](www.linkedin.com/in/felipe-exe)
-- [GitHub do Felipe Aguiar](https://github.com/felipeAguiarCode)
-- [Instagram do Felipe Aguiar](https://www.instagram.com/felipeaguiar.exe/)
+- Expert **Felipe Aguiar**
+  - [DIO](https://dio.me): Plataforma de aprendizagem
+  - [Linkedin do Felipe Aguiar](www.linkedin.com/in/felipe-exe)
+  - [GitHub do Felipe Aguiar](https://github.com/felipeAguiarCode)
+  - [Instagram do Felipe Aguiar](https://www.instagram.com/felipeaguiar.exe/)
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=ktfS6qIy7XM" title="Preview do Conteúdo">
