@@ -34,7 +34,7 @@ Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura a
 
 - [ChatGPT](https://chat.openai.com/) - para criação do conteúdo (Lembre-se da importância da revisão humana)
 - [Lexica.art](https://lexica.art/) - para gerar imagens
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint) - Para formatação de banners e Layouts
+- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint) - para formatação de banners e Layouts
 - [remove.bg](https://www.remove.bg/) - para remover background das imagens
 
 ## 📄 Prompts e ferramentas
@@ -44,7 +44,12 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie 10 headlines para nomes de artigos sobre o assunto Javascript e NodeJS.                                                                                                                                                                                                    |
-| conteúdo | Comporte-se como um criador de conteúdo para midias digitais, especialista em desenvolvimento web e escreva um artigo para ser publicado no Linkedin sobre "integração do frontend usando javascript com o backend usando NodeJS" {REGRAS} Explique sempre de uma maneira simples, tendo como público alvo programadores iniciantes. Deixe o texto enxuto, no máximo 5 linhas por bloco de explicação. Sempre traga exemplos de código em contextos reais. |
+| conteúdo | Comporte-se como um criador de conteúdo para midias digitais, especialista em desenvolvimento web e escreva um artigo para ser publicado no Linkedin sobre "integração do frontend usando javascript com o backend usando NodeJS" {REGRAS} Explique sempre de uma maneira simples, tendo como público alvo programadores iniciantes. Use uma linguagem informal na criação dos textos. Deixe o texto enxuto, no máximo 5 linhas por bloco de explicação. Sempre traga exemplos de código em contextos reais. Escreva um "call to action" para as minhas redes sociais. Inclua três hashtags que façam sentido. Os blocos que devem ser gerados estão abaixo:
+
+- Introdução.
+- O que é Javascript?
+- O que é Node.js?
+- Conclusão |
 
 Lexica.art：
 
@@ -76,7 +81,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 ## 👨‍💻 Profile
 
 <p>
-    <img 
+    <img
       align=left
       margin=10
       width=80
