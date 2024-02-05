@@ -62,8 +62,8 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 
 ### 👍 References
 
+- [DIO](https://dio.me): Plataforma de aprendizagem gameficada.
 - Expert **Felipe Aguiar**
-  - [DIO](https://dio.me): Plataforma de aprendizagem
   - [Linkedin do Felipe Aguiar](www.linkedin.com/in/felipe-exe)
   - [GitHub do Felipe Aguiar](https://github.com/felipeAguiarCode)
   - [Instagram do Felipe Aguiar](https://www.instagram.com/felipeaguiar.exe/)
