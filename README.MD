@@ -48,8 +48,9 @@ ChatGPT：
 
 Lexica.art：
 
-|  título  | No léxica utilizamos o acervo público de imagens geradas por outras pessoas.|
-| conteúdo | Pesquisei pelos termos "Technology", "Javascript", "Node.js"                |
+|   título   | No léxica utilizamos o acervo público de imagens geradas por outras pessoas.                                                                                                                                                                                                                                                                    |
+| conteúdo | Pesquisei pelos termos "Technology", "Javascript", "Node.js"
+                                                                                        |
 
 <!--
 ## 📚 Materiais
