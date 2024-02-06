@@ -43,12 +43,14 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie 10 headlines para nomes de artigos sobre o assunto Javascript e NodeJS.                                                                                                                                                                                                    |
+|  título  | Crie 10 headlines para nomes de artigos sobre o assunto Javascript e NodeJS. |
+
 | conteúdo | Comporte-se como um criador de conteúdo para midias digitais, especialista em desenvolvimento web e escreva um artigo para ser publicado no Linkedin sobre "integração do frontend usando javascript com o backend usando NodeJS" {REGRAS} Explique sempre de uma maneira simples, tendo como público alvo programadores iniciantes. Use uma linguagem informal na criação dos textos. Deixe o texto enxuto, no máximo 5 linhas por bloco de explicação. Sempre traga exemplos de código em contextos reais. Escreva um "call to action" para as minhas redes sociais. Inclua três hashtags que façam sentido. Os blocos que devem ser gerados estão abaixo: Introdução, O que é Javascript, O que é Node.js?, Como integrar o frontend com javascript e o backend com Node.js? Cite as principais vantagens na integração, Crie um exemplo de codificação para o frontend com HTML e Javascrip (Crie um botão que ao ser clicado execute uma API e exiba na tela a mensagem retornada pela API), Crie uma exemplo de codificação para o backend com Node.js (Crie uma API em Node.js cuja única função é retornar uma mensagem de texto), Conclusão |
 
 Lexica.art：
 
-- No léxica utilizamos o acervo público de imagens geradas por outras pessoas.
+|  título  | No léxica utilizamos o acervo público de imagens geradas por outras pessoas.|
+| conteúdo | Pesquisei pelos termos "Technology", "Javascript", "Node.js"                |
 
 <!--
 ## 📚 Materiais
