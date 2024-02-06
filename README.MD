@@ -48,7 +48,7 @@ ChatGPT：
 
 Lexica.art：
 
-|   Ação   | No léxica utilizamos o acervo público de imagens geradas por outras pessoas.                                                                                 |
+No léxica utilizamos o acervo público de imagens geradas por outras pessoas.
 
 <!--
 ## 📚 Materiais
