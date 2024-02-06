@@ -23,7 +23,7 @@
 
 Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover sua autoridade técnica.
 
-<a href="https://web.dio.me/articles/do-frontend-com-javascript-ao-backend-com-nodejs?back=%2Farticles&page=1&order=oldest" title="View PDF now"> 📕Clique aqui para ler o artigo</a>
+<a href="https://web.dio.me/articles/do-frontend-com-javascript-ao-backend-com-nodejs?back=%2Farticles&open-modal=true&page=1&order=oldest" title="View Page"> 📕Clique aqui para ler o artigo</a>
 
 ## ✨ Features
 
